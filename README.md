@@ -1,7 +1,3 @@
-Below is a **README.md** suitable for submission on the [uMod.org (Oxide)](https://umod.org) website. It follows the general structure and formatting conventions commonly used for plugin listings. Feel free to adapt sections as needed for your specific preferences or additional details.
-
----
-
 # PlayerNameFilter
 
 **Name:** PlayerNameFilter  

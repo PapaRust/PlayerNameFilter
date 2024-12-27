@@ -22,7 +22,6 @@ namespace Oxide.Plugins
                 ".org",
                 ".gg",
                 "rustysaloon",
-                "howlgg",
                 "ruststake",
                 "bandit.camp",
                 "rustclash",
@@ -34,7 +33,6 @@ namespace Oxide.Plugins
                 "banditcamp.com",
                 "csgetto.games",
                 "madfun.ru",
-                "paranoid.gg",
                 ".ru"
             };
         }
@@ -56,7 +54,6 @@ namespace Oxide.Plugins
                     ".org",
                     ".gg",
                     "rustysaloon",
-                    "howlgg",
                     "ruststake",
                     "bandit.camp",
                     "rustclash",
@@ -68,7 +65,6 @@ namespace Oxide.Plugins
                     "banditcamp.com",
                     "csgetto.games",
                     "madfun.ru",
-                    "paranoid.gg",
                     ".ru"
                 }
             };

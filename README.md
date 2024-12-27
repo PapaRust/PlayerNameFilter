@@ -34,7 +34,6 @@ Upon first load, PlayerNameFilter creates a config file named `PlayerNameFilter.
     ".org",
     ".gg",
     "rustysaloon",
-    "howlgg",
     "ruststake",
     "bandit.camp",
     "rustclash",
@@ -46,7 +45,6 @@ Upon first load, PlayerNameFilter creates a config file named `PlayerNameFilter.
     "banditcamp.com",
     "csgetto.games",
     "madfun.ru",
-    "paranoid.gg",
     ".ru"
   ]
 }
